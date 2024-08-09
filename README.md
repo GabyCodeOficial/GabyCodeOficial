@@ -6,9 +6,10 @@
 - 👀 I’m interested in learn and have a career as DEV
 - 🌱 I’m currently learning basic programation skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img <img align="right" alt="Gaby-gif" hight=150 width=150 src="https://cdn.discordapp.com/attachments/1266949400949821475/1266949523897450567/gifmaker_me.gif?ex=66b6d431&is=66b582b1&hm=d44100d44fed8db33f79d30438d49ac6555028aefde851b3c5aaa465a7975631&"
+  <img align="center" alt="símbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="símbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="símbolo JavaScript" hight="30" width="40" src="https://cdn.discordapp.com/attachments/1266949400949821475/1271471475488198758/javascript-logo-javascript-icon-transparent-free-png.png?ex=66b77596&is=66b62416&hm=5306f254cbf6481b1432b5131934bcca0826a18257d5769d388f3f29beab1ce8&">
+  <img <img align="right" alt="Gaby-gif" hight="150" width="150" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266949523897450567/gifmaker_me.gif?ex=66b6d431&is=66b582b1&hm=d44100d44fed8db33f79d30438d49ac6555028aefde851b3c5aaa465a7975631&">
 </div>
   
   ## 
