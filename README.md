@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Gaby-capa" height="150" width="1200" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266984733271920671/giphy_1.gif?ex=66b6f4fb&is=66b5a37b&hm=1b34cb0cece0becb6d459c3b3109959b217e99c08f583d8e85143383effb2195&">
+  <img align="center" alt="Gaby-capa" height="150" width="1200" src="[5cece0becb6d459c3b3109959b217e99c08f583d8e85143383effb2195&](https://cdn.discordapp.com/attachments/1266949400949821475/1266984733271920671/giphy_1.gif?ex=66d34d3b&is=66d1fbbb&hm=cd5ab3bb05c26cfc0b4975452ed016a6e30f3c0833f5d6f3a5783471a7c96015&)">
 </div>
 
 ## 👋 Hi, I’m @GabyCodeOficial <img align="right" height="100" width="190" src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif"> 
