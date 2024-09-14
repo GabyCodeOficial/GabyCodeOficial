@@ -11,7 +11,8 @@
   <img align="center" alt="símbolo JavaScript" hight="30" width="40" src="https://cdn.discordapp.com/attachments/1266949400949821475/1271471475488198758/javascript-logo-javascript-icon-transparent-free-png.png?ex=66d32516&is=66d1d396&hm=9cedfe3b4214238c238f7d54db6ec8e2a490da550eb9d3802ddb00dc43dca079&"> 
   <img align="right" alt="Gaby-gif" hight="150" width="150" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266949523897450567/gifmaker_me.gif?ex=66d32c71&is=66d1daf1&hm=331801f522f4017d8fd162cc9861832fd38283accd4b7a6f5cefce39321836f1&"> 
   <img align="center" alt="símbulo React" hight="25" width="35" src="https://cdn.discordapp.com/attachments/1266949400949821475/1274920109160403004/1183672.png?ex=66d32aa0&is=66d1d920&hm=90fd0e8bf8e90a4c048ff2e17a8a605dc82afdbd932729236926cc31ab264e25&">
-  <img align="center" alt="símbulo SQL" hight="25" width="35" src="https://cdn.discordapp.com/attachments/1266949400949821475/1274919291799470122/4248443.png?ex=66d329de&is=66d1d85e&hm=453077c5d2327cf6eeebb898dc4d18b0af01d79385f47af236a9d4be127a5fff&"> 
+  <img align="center" alt="símbulo SQL" hight="25" width="35" src="![image](https://github.com/user-attachments/assets/387aebc4-bb58-4add-be75-f6a5c135ac71)">
+
 
 </div>
   
