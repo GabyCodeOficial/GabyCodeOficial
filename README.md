@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="símbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="símbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="símbolo JavaScript" hight="30" width="40" src="<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>"> 
+  <img align="center" alt="símbolo JavaScript" hight="30" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img align="right" alt="Gaby-gif" hight="150" width="150" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266949523897450567/gifmaker_me.gif?ex=66d32c71&is=66d1daf1&hm=331801f522f4017d8fd162cc9861832fd38283accd4b7a6f5cefce39321836f1&"> 
   <img align="center" alt="símbulo React" hight="25" width="35" src="https://cdn.discordapp.com/attachments/1266949400949821475/1274920109160403004/1183672.png?ex=66d32aa0&is=66d1d920&hm=90fd0e8bf8e90a4c048ff2e17a8a605dc82afdbd932729236926cc31ab264e25&">
   <img align="center" alt="símbulo SQL" hight="25" width="35" src="![image](https://github.com/user-attachments/assets/387aebc4-bb58-4add-be75-f6a5c135ac71)">
