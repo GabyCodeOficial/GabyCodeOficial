@@ -10,7 +10,7 @@
   <img align="center" alt="símbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="símbolo JavaScript" hight="30" width="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img align="right" alt="Gaby-gif" hight="150" width="150" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266949523897450567/gifmaker_me.gif?ex=66d32c71&is=66d1daf1&hm=331801f522f4017d8fd162cc9861832fd38283accd4b7a6f5cefce39321836f1&"> 
-  <img align="center" alt="símbulo React" hight="25" width="35" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>">
+  <img align="center" alt="símbulo React" hight="25" width="35" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
   <img align="center" alt="símbulo SQL" hight="25" width="35" src="https://img.icons8.com/nolan/64/my-sql.png" alt="my-sql">
 
 
