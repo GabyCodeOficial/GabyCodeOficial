@@ -2,7 +2,7 @@
   <img align="center" alt="Gaby-capa" height="150" width="1200" src="https://cdn.discordapp.com/attachments/1266949400949821475/1266984733271920671/giphy_1.gif?ex=66d34d3b&is=66d1fbbb&hm=cd5ab3bb05c26cfc0b4975452ed016a6e30f3c0833f5d6f3a5783471a7c96015&">
 </div>
 
-## 👋 Hi, I’m @GabyCodeOficial <img align="right" height="100" width="190" src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif"> 
+## 👋 Hi, I’m @GabyCodeOficial <img align="right" height="100" width="190" src="[https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4eHduOHk0dXRrd2Mxcjhna2J5aGh6bXVuYzAyMGtzNGFpY3dqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1d6ofz0eA3me9xiJz/giphy.gif)"> 
 - 👀 I’m interested in learn and have a career as DEV
 - 🌱 I’m currently learning basic programation skills
 <div style="display: inline_block"><br>
